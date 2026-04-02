@@ -9,10 +9,9 @@
 ---
 
 ## 🚀 À propos de moi
-- 🏫 Je suis élève à **Henry Matisse**.
-- 💻 Je m'intéresse au code et aux nouvelles technologies.
-- 🚀 Je développe mes projets sur GitHub.
-- 💬 Contactez-moi pour discuter de projets.
+- 🏫 École : **Henry Matisse**.
+- 💻 Passion : Code et nouvelles technologies.
+- 🚀 Projets : Développés ici sur GitHub.
 
 ---
 
@@ -34,18 +33,18 @@
 
 ### 📈 Mon activité globale
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanis-haddou&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanis-haddou&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayalebledardt&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayalebledardt&layout=compact&theme=tokyonight" />
 </p>
 
 ### 🔥 Ma progression
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanis-haddou&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayalebledardt&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Mes Trophées
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yanis-haddou&theme=tokyonight&column=4" alt="Trophées" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yayalebledardt&theme=tokyonight&column=4" alt="Trophées" />
 </p>
 
 ---
@@ -61,4 +60,4 @@
 </p>
 
 ---
-*Dernière mise à jour : 2026*
+*Mis à jour en 2026*
