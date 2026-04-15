@@ -23,10 +23,16 @@
 
 ## 📊 Statistiques et Activité
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yayalebledardt&show_icons=true&theme=flat&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayalebledardt&layout=compact&theme=flat" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayalebledardt&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayalebledardt&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
