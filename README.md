@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=150&section=header&text=Yanis%20Haddou&fontSize=50" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Znd4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QH8fQyf3W/giphy.gif" width="400" />
+</p>
+
 ## 👤 Profil Professionnel
 Étudiant à l'école **Henri Matisse**. Je développe des solutions informatiques simples et performantes. Je me concentre sur la qualité du code, l'optimisation et l'apprentissage continu des technologies modernes.
 
@@ -37,7 +41,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yayalebledardt&theme=tokyonight" alt="GitHub Streak" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayalebledardt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     </td>
     <td align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayalebledardt&layout=compact&theme=tokyonight" />
