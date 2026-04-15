@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Znd4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QH8fQyf3W/giphy.gif" width="400" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRweWJ3dHA0N24xdmNxbzQyYWprcGE5eDBudXowZHVwMWdsdGltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="400" />
 </p>
 
 ## 👤 Profil Professionnel
