@@ -1,5 +1,3 @@
-![idk](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B3cGpjN2pqZGJ5MzB2MHJldjBxaDBwODlrdW5iZHgydTVmanJvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif))
-
 # Yanis Haddou
 
 <p align="center">
