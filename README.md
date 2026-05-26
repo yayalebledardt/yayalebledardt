@@ -13,7 +13,6 @@
 
 * 🎓 **Formation** : Cursus académique à Henri Matisse.
 * 💻 **Spécialité** : Développement Full-Stack et Python.
-* 🎯 **Objectif** : Collaborer sur des projets technologiques ambitieux.
 
 ---
 
