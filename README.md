@@ -1,18 +1,5 @@
-<!-- ===================== HEADER ANIMÉ ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yanis%20Haddou&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20" />
-</p>
-
-<!-- ===================== TEXTE QUI SE TAPE TOUT SEUL ===================== -->
-<p align="center">
-  <a href="https://github.com/yayalebledardt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Believe+it.+%F0%9F%8D%9C;Code+like+a+Hokage;Full-Stack+Developer+%26+Python+Enjoyer;Plus+Ultra+%F0%9F%92%A5;404%3A+Bug+not+found" />
-  </a>
-</p>
-
-<!-- ===================== TON GIF D'ANIMÉ ICI ===================== -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRweWJ3dHA0N24xdmNxbzQyYWprcGE5eDBudXowZHVwMWdsdGltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="420" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yanis%20Haddou&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20%7C%20Python%20%7C%20Web&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -22,25 +9,20 @@
   <a href="mailto:TON_VRAI_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yayalebledardt&style=for-the-badge&color=00b4d8&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=yayalebledardt&style=for-the-badge&color=00b4d8&label=Vues+du+profil" />
 </p>
 
 ---
 
-## ⚡ Profil
+## 👤 Profil
 
-> *"A lesson without pain is meaningless."* — un dev qui a déjà debuggé à 3h du mat
-
-Étudiant à l'école **Henri Matisse**, je développe des solutions logicielles simples, propres et performantes. Focus sur la qualité du code, l'optimisation et l'apprentissage continu.
-
-- 🎓 **Formation** — Henri Matisse
-- 💻 **Spécialité** — Full-Stack & Python
-- 🔥 **Quête actuelle** — Applications web (React, Docker, back-end)
-- 🎮 **Hors écran** — Gaming & animé
+- 💻 **Spécialité** — Développement Full-Stack & Python
+- 🚀 **En ce moment** — Développement d'applications web (React, Docker, intégration back-end)
+- 📫 **Contact** — via LinkedIn ou email ci-dessus
 
 ---
 
-## 🛠 Arsenal Technique
+## 🛠 Stack Technique
 
 ### Langages & Web
 <p align="left">
@@ -75,7 +57,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayalebledardt&theme=tokyonight&hide_border=true&fire=00b4d8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayalebledardt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -84,17 +66,16 @@
 
 ---
 
-## 🐍 Le serpent mange mes contributions
+## 📈 Activité
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yayalebledardt/yayalebledardt/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yayalebledardt&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions" />
 </p>
 
 ---
 
-<!-- ===================== SECOND GIF D'ANIMÉ (optionnel) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
 
 <p align="right"><i>Mis à jour : Juin 2026</i></p>
